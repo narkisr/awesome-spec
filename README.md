@@ -2,6 +2,7 @@
 
 * [Libraries](#Libraries)
 * [Genrators](#Generators)
+* [Misc](#Misc)
 
 
 ## Libraries
@@ -15,3 +16,7 @@
 * [strgen](https://github.com/miner/strgen) - a library to generate strings from regular expressions.
 * [chuck](https://github.com/gfredericks/test.chuck) - utility functions for test.check (including regex).
 * [specmonstah](https://github.com/reifyhealth/specmonstah) - generate and manipulate deeply-nested, hierarchical graphs of business data.
+
+## Misc
+
+* [spectator](https://github.com/ioRekz/spectator) - Curated list of public clojure specs

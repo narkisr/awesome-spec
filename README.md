@@ -1,7 +1,7 @@
 # Awesome clojure spec
 
 * [Libraries](#Libraries)
-* [Common specs](#Commnon specs)
+* [Common specs](#Commnon_specs)
 * [Genrators](#Generators)
 * [Misc](#Misc)
 

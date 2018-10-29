@@ -1,6 +1,7 @@
 # Awesome clojure spec
 
 * [Libraries](#Libraries)
+* [Community specs](#Community specs)
 * [Genrators](#Generators)
 * [Misc](#Misc)
 
@@ -12,7 +13,9 @@
 * [expound](https://github.com/bhb/expound) - human optimized errors for specs.
 * [spec-coerce](https://github.com/wilkerlucio/spec-coerce) - leverage your specs to coerce your information into correct types.
 
+## Community specs
 
+* [useful-specs](https://github.com/SparkFund/useful-specs)
 
 ## Generators
 

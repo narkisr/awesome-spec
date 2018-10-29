@@ -15,7 +15,9 @@
 
 ## Common specs
 
-* [useful-specs](https://github.com/SparkFund/useful-specs)
+* [useful-specs](https://github.com/SparkFund/useful-specs) - A collection of generally useful specs with generators (urls, emails etc..)
+ 
+
 
 ## Generators
 
